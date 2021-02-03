@@ -50,7 +50,8 @@ I tried to think of creative ways to build a recommendation algorithm and came u
 IV. Coding Flask and HTML to put algorithm in action
 ----------------------------------------------------
 Run file to work in localhost
-- [Flask + HTML](https://github.com/yeji0701/Crawling_Project/blob/master/recommendation/music.py)
+- [Flask](https://github.com/yeji0701/Crawling_Project/blob/master/recommendation/music.py)
+- [HTML](https://github.com/dss-15th/crawling-repo-5/tree/master/recommendation/templates/music)
 
 Built with
 ----------
