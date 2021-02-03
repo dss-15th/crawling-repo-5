@@ -11,34 +11,21 @@ The major activities in this project:
 * Building algorithm for music recommendation
 * Coding Flask and HTML to put algorithm in action
 
-Prerequisites:
-* Jupyter Notebook
-* VS Code
-* Python3
-
 Getting Started
 ---------------
 ##### Packages to install
-1. Crawling Melon chart:
-* reqests
-* BeautifulSoup (bs4)
-* UserAgent (fake_useragent)
-* pandas
-2. Visualization:
-* matplotlib.pyplot
-* seaborn
-* warnings
-* font_manager (matplotlib) - for Korean font
-* pandas
-3. Algorithm
-* Okt (konply.tag)
-* re
-* gensim
-* word2vec (gensim.models)
-* pandas
-* pymongo
-* math
-* random
+- this project was built on Python 3 with following installations: (see [requirements.txt](https://github.com/yeji0701/Crawling_Project/blob/master/requirements.txt) for more information)
+```
+pip install requests
+pip install beautifulsoup4
+pip install fake-useragent
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install konlpy
+pip install gensim
+pip install pymongo
+```
 
 I. Crawling data from 'Melon' chart
 --------------------------------
